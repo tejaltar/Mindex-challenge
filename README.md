@@ -85,7 +85,7 @@ Compensation from the persistence layer.
 ## Delivery
 Please upload your results to a publicly accessible Git repo. Free ones are provided by Github and Bitbucket.
 
-##Solution
+## Solution
 
 ### Task 1
 ReportingStructure has JSON schema of:
